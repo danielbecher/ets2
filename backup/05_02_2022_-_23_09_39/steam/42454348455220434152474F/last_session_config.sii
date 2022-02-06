@@ -1,0 +1,23 @@
+SiiNunit
+{
+server_config : _nameless.23c.d2fc.0d40 {
+ lobby_name: Beckerson
+ description: ""
+ welcome_message: ""
+ password: sal4
+ max_players: 8
+ max_vehicles_total: 100
+ max_ai_vehicles_player: 50
+ port: 100
+ player_damage: true
+ traffic: false
+ hide_in_company: false
+ hide_colliding: true
+ force_speed_limiter: false
+ service_no_collision: true
+ in_menu_ghosting: false
+ name_tags: true
+ friends_only: false
+}
+
+}
